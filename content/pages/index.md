@@ -1,5 +1,5 @@
 ---
-title: HomeBienvenidos
+title: Bienvenidos
 has_intro: true
 intro_content: >-
   This is the "about" excerpt. It can be used to provide a paragraph about
