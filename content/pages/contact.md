@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: D
 img_path: images/contact.jpg
 img_alt: Post in the door mailbox
 form_id: contactForm
