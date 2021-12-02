@@ -27,7 +27,7 @@ form_fields:
     name: message
     label: Message
     default_value: Your message
-  - input_type: checkbox
+  - input_type: number
     name: consent
     label: >-
       I understand that this form is storing my submitted information so I can
