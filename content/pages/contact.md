@@ -54,5 +54,4 @@ seo:
       value: This is the contact page
 layout: contact
 ---
-
-Fill the form below to get in touch with me.
+Envíanos tus datos
