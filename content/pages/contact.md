@@ -1,5 +1,5 @@
 ---
-title: Te contactareos
+title: Te contactaremos con gusto
 img_path: images/contact.jpg
 img_alt: Post in the door mailbox
 form_id: contactForm
