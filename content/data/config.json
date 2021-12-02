@@ -10,7 +10,7 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Inicio",
+                "label": "Bienvenidos",
                 "url": "/",
                 "style": "link"
             },
