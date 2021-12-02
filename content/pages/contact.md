@@ -32,7 +32,7 @@ form_fields:
     label: >-
       I understand that this form is storing my submitted information so I can
       be contacted.
-submit_label: E
+submit_label: En
 seo:
   title: Get in Touch
   description: This is the contact page
