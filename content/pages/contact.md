@@ -6,7 +6,7 @@ form_id: Formulario
 form_action: /contact-success
 form_fields:
   - input_type: text
-    name: 'N'
+    name: Nombre
     label: Name
     default_value: Your name
     is_required: true
