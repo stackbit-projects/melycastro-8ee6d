@@ -1,7 +1,7 @@
 {
     "title": "Mely Castro",
     "path_prefix": "/",
-    "layout_style": "grid",
+    "layout_style": "list",
     "palette": "blue",
     "header": {
         "title": "Ampersand",
