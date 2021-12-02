@@ -8,7 +8,7 @@ form_fields:
   - input_type: text
     name: Tu Nombre
     label: Name
-    default_value: Your name
+    default_value: Tu NOmbre
     is_required: true
   - input_type: email
     name: email
