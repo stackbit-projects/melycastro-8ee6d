@@ -9,7 +9,7 @@ form_fields:
     name: Tu Nombre
     label: Name
     default_value: Tu Nombre
-    is_required: true
+    is_required: false
   - input_type: email
     name: email
     label: Email
