@@ -16,7 +16,7 @@ form_fields:
     default_value: Your email address
     is_required: true
   - input_type: select
-    name: subject
+    name: Asunto
     label: Subject
     default_value: Please select
     options:
