@@ -2,7 +2,7 @@
 title: Te contactaremos con gusto
 img_path: images/contact.jpg
 img_alt: Post in the door mailbox
-form_id: contactForm
+form_id: Formulario
 form_action: /contact-success
 form_fields:
   - input_type: text
